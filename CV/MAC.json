@@ -10,10 +10,27 @@
       "surnames": "Quiroz",
       "title": "Desarrollador de sofware",
       "description": "Soy un joven prodigio \n",
+      "avatar": {
+        "alt": "IMG_20230127_160301_965.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/27/c7ebf74d-fa19-4ba1-9d22-6d18ae85d52f_img_20230127_160301_.jpg"
+      },
       "location": {
+        "country": "Venezuela",
+        "region": "Carabobo",
+        "municipality": "San Joaquín",
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/JuanQuiro"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jukiro/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -46,6 +63,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jukiro/"
+        }
+      ]
+    },
     "status": "searchingActively"
   }
 }
