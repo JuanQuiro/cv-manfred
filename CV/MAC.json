@@ -76,7 +76,13 @@
       },
       {
         "skill": {
-          "name": "Tailwind",
+          "name": "Vim",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
           "type": "technology"
         }
       },
@@ -88,13 +94,13 @@
       },
       {
         "skill": {
-          "name": "NPM",
+          "name": "Tailwind",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "NextJS",
+          "name": "NPM",
           "type": "technology"
         }
       }
