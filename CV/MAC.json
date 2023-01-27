@@ -70,13 +70,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NextJS",
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -95,6 +89,18 @@
       {
         "skill": {
           "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
           "type": "technology"
         }
       }
