@@ -70,13 +70,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vim",
+          "name": "Tailwind",
           "type": "technology"
         }
       },
@@ -88,13 +82,13 @@
       },
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "React",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Tailwind",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
