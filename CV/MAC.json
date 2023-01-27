@@ -23,6 +23,10 @@
     },
     "relevantLinks": [
       {
+        "type": "other",
+        "URL": "https://dominio-dragon.vercel.app/"
+      },
+      {
         "type": "github",
         "URL": "https://github.com/JuanQuiro"
       },
