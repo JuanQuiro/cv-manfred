@@ -76,6 +76,18 @@
       },
       {
         "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -88,7 +100,7 @@
       },
       {
         "skill": {
-          "name": "NPM",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -100,7 +112,7 @@
       },
       {
         "skill": {
-          "name": "NextJS",
+          "name": "HTML",
           "type": "technology"
         }
       }
