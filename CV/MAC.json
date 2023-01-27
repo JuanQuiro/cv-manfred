@@ -70,24 +70,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NextJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NPM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -100,7 +82,7 @@
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "Github",
           "type": "technology"
         }
       },
@@ -112,7 +94,43 @@
       },
       {
         "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
           "type": "technology"
         }
       }
