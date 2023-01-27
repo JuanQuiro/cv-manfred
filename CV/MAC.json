@@ -9,7 +9,7 @@
       "name": "Juan",
       "surnames": "Quiroz",
       "title": "Desarrollador de sofware",
-      "description": "Soy un programador FullStack enfocado en Front-end apasionado por conectar lo mejor de la tecnología con el mundo real. En el comienzo de mi carrera empecé como freelancer en la generación de contenido web, SEO y community manager. Con el paso del tiempo comencé a formar webs complejas, en un punto hice los cursos de Fernando Herrera \"React: De cero a Experto\", \"JavaScript: de cero hasta los detalles\", entre otros, todo esto lo hice a la vez que creaba y me documentaba, esto dando lugar a que me reorienté mi carrera hacia la tecnología web.",
+      "description": "Soy un programador FullStack enfocado en Front-end apasionado por conectar lo mejor de la tecnología con el mundo real. En el comienzo de mi carrera empecé como freelancer en la generación de contenido web, SEO y community manager. Con el paso del tiempo comencé a crear webs complejas, en un punto hice los cursos de Fernando Herrera \"React: De cero a Experto\", \"JavaScript: de cero hasta los detalles\", entre otros, todo esto lo hice a la vez que creaba y me documentaba, esto dando lugar a que conozca desde marketing hasta stacks como el MERN",
       "avatar": {
         "alt": "IMG_20230127_160301_965.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/27/c7ebf74d-fa19-4ba1-9d22-6d18ae85d52f_img_20230127_160301_.jpg"
@@ -57,6 +57,16 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
