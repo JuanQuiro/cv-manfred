@@ -1,0 +1,51 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan",
+      "surnames": "Quiroz",
+      "title": "Desarrollador de sofware",
+      "description": "Soy un joven prodigio \n",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Freelancer.com "
+        },
+        "roles": [
+          {
+            "name": "Freelance",
+            "startDate": "2018-06-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Vim",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "searchingActively"
+  }
+}
