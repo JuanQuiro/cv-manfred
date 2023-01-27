@@ -34,6 +34,12 @@
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/jukiro/"
       }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Me encanta todo tipo de musica",
+        "fact": "Mis artistas favoritos son:\nClásica: Joe Hisaishi, Claude Debussy, Erik Satie\nReggaeton: Daby Yanke, Don Omar, Plan B\nFlamenco: Paco de Lucía\n...Entre otros"
+      }
     ]
   },
   "experience": {
