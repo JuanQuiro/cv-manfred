@@ -185,24 +185,6 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "JavaScript Moderno: Guía para dominar el lenguaje",
-        "startDate": "2022-12-01",
-        "finishDate": "2023-01-01",
-        "institution": {
-          "name": "Fernando Herrera - Udemy",
-          "description": "Bienvenido al curso de JavaScript moderno. El objetivo principal del curso es enseñarte JavaScript actual, empezando de cero conocimiento en JavaScript hasta llevarte a un nivel avanzado y competitivo en el mercado laboral actual.",
-          "URL": "https://www.udemy.com/course/javascript-fernando-herrera/"
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
         "name": "React: De cero a experto ( Hooks y MERN )",
         "startDate": "2022-12-01",
         "finishDate": "2023-01-01",
@@ -218,6 +200,28 @@
         "linkedCompetences": [
           {
             "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "JavaScript Moderno: Guía para dominar el lenguaje",
+        "startDate": "2022-12-01",
+        "finishDate": "2023-01-01",
+        "institution": {
+          "name": "Fernando Herrera - Udemy",
+          "description": "Bienvenido al curso de JavaScript moderno. El objetivo principal del curso es enseñarte JavaScript actual, empezando de cero conocimiento en JavaScript hasta llevarte a un nivel avanzado y competitivo en el mercado laboral actual.",
+          "URL": "https://www.udemy.com/course/javascript-fernando-herrera/",
+          "image": {
+            "alt": "11767934_4361_2.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/36c42b87-c767-443a-b037-28d9f8417275_11767934_4361_2.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
             "type": "technology"
           }
         ]
