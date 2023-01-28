@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Venezuela",
         "region": "Carabobo",
-        "municipality": "Valencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valencia"
       }
     },
     "relevantLinks": [
@@ -110,12 +109,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -290,11 +287,10 @@
         "startDate": "2022-11-01",
         "institution": {
           "name": "Open Bootcamp",
-          "description": "",
           "URL": "https://open-bootcamp.com/",
           "image": {
-            "alt": "diplomas_a8c3377c-5c69-4f9a-abe2-5aee0419f7b3-1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/672eaf11-13ec-4b20-888f-68333f836737_diplomas_a8c3377c-5c.png"
+            "alt": "Captura.PNG",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/1b866e9c-9d79-4d44-8627-d4916277480b_captura.png"
           }
         },
         "linkedCompetences": [
@@ -311,7 +307,6 @@
         "startDate": "2020-12-01",
         "institution": {
           "name": "Olimpiada Venezolana en Informática ",
-          "description": "",
           "URL": "https://ovinformatica.wixsite.com/ovinformatica",
           "image": {
             "alt": "Juan Quiroz participación-1.png",
@@ -332,7 +327,6 @@
         "startDate": "2020-12-01",
         "institution": {
           "name": "Olimpiada Venezolana en Informática ",
-          "description": "",
           "URL": "https://ovinformatica.wixsite.com/ovinformatica",
           "image": {
             "alt": "Juan Quiroz ronda final_2-1.png",
@@ -431,7 +425,6 @@
       "preferredRoles": [
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
