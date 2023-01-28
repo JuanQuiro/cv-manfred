@@ -94,12 +94,16 @@
             "finishDate": "2022-01-01",
             "challenges": [
               {
-                "description": "JayTeam es una agencia de marketing digital"
+                "description": "JayTeam es una agencia de marketing digital. Los proyectos que más me impactaron dentro de JayTeam fueron:\n\n 1. Clickfunnels\n 2. Gestión de redes sociales(Social Media Strategist)\n 3. Blogger"
               }
             ],
             "competences": [
               {
                 "name": "Facebook Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Hootsuite",
                 "type": "technology"
               },
               {
