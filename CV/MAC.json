@@ -127,7 +127,25 @@
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
           "type": "technology"
         }
       },
@@ -139,7 +157,31 @@
       },
       {
         "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MailChimp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
           "type": "technology"
         }
       },
@@ -157,31 +199,13 @@
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "Facebook Ads",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NextJS",
+          "name": "CSS",
           "type": "technology"
         }
       },
