@@ -229,28 +229,6 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Tailwind CSS: Guía Completa de Instalación y Primeros Pasos",
-        "startDate": "2023-01-01",
-        "finishDate": "2023-01-01",
-        "institution": {
-          "name": "David Morales - Udemy",
-          "description": "En el curso se aprende a instalar TailwindCSS paso a paso, y cómo empezar a usarlo.\n",
-          "URL": "https://www.udemy.com/course/tailwind-css-instalacion/",
-          "image": {
-            "alt": "default-meta-image-v2.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/f8b6d959-a8ab-4683-ab33-4ad7c43bbd63_default-meta-image-v.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Tailwind",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
         "name": "React: De cero a experto ( Hooks y MERN )",
         "startDate": "2022-12-01",
         "finishDate": "2023-01-01",
@@ -300,6 +278,28 @@
           },
           {
             "name": "MERN Stack",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Tailwind CSS: Guía Completa de Instalación y Primeros Pasos",
+        "startDate": "2022-12-01",
+        "finishDate": "2023-01-01",
+        "institution": {
+          "name": "David Morales - Udemy",
+          "description": "En el curso se aprende a instalar TailwindCSS paso a paso, y cómo empezar a usarlo.\n",
+          "URL": "https://www.udemy.com/course/tailwind-css-instalacion/",
+          "image": {
+            "alt": "default-meta-image-v2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/f8b6d959-a8ab-4683-ab33-4ad7c43bbd63_default-meta-image-v.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Tailwind",
             "type": "technology"
           }
         ]
