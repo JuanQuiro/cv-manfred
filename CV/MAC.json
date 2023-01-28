@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Venezuela",
         "region": "Carabobo",
-        "municipality": "Valencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valencia"
       }
     },
     "relevantLinks": [
@@ -140,7 +139,7 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/9cf7c1e5-de88-44a3-8a34-fdd69737633d_captura-de-pantalla-.png"
           }
         },
-        "type": "sideProject",
+        "type": "openSource",
         "roles": [
           {
             "name": "Developer",
@@ -160,12 +159,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -340,7 +337,6 @@
         "startDate": "2022-11-01",
         "institution": {
           "name": "Open Bootcamp",
-          "description": "",
           "URL": "https://open-bootcamp.com/",
           "image": {
             "alt": "Captura.PNG",
@@ -361,7 +357,6 @@
         "startDate": "2020-12-01",
         "institution": {
           "name": "Olimpiada Venezolana en Informática ",
-          "description": "",
           "URL": "https://ovinformatica.wixsite.com/ovinformatica",
           "image": {
             "alt": "Juan Quiroz participación-1.png",
@@ -382,7 +377,6 @@
         "startDate": "2020-12-01",
         "institution": {
           "name": "Olimpiada Venezolana en Informática ",
-          "description": "",
           "URL": "https://ovinformatica.wixsite.com/ovinformatica",
           "image": {
             "alt": "Juan Quiroz ronda final_2-1.png",
@@ -481,7 +475,6 @@
       "preferredRoles": [
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
