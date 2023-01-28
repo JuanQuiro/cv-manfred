@@ -292,13 +292,7 @@
             "alt": "diplomas_a8c3377c-5c69-4f9a-abe2-5aee0419f7b3-1.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/672eaf11-13ec-4b20-888f-68333f836737_diplomas_a8c3377c-5c.png"
           }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Jest",
-            "type": "technology"
-          }
-        ]
+        }
       },
       {
         "studyType": "certification",
