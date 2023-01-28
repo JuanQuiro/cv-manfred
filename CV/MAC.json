@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Venezuela",
         "region": "Carabobo",
-        "municipality": "Valencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valencia"
       }
     },
     "relevantLinks": [
@@ -110,12 +109,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -196,6 +193,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Tailwind CSS: Guía Completa de Instalación y Primeros Pasos",
+        "startDate": "2023-01-01",
+        "finishDate": "2023-01-01",
+        "institution": {
+          "name": "David Morales - Udemy",
+          "description": "En el curso se aprende a instalar TailwindCSS paso a paso, y cómo empezar a usarlo.\n",
+          "URL": "https://www.udemy.com/course/tailwind-css-instalacion/",
+          "image": {
+            "alt": "1809020_fe95_12.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/7121027f-d99f-4283-b85f-0d823efa0cd6_1809020_fe95_12.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "React: De cero a experto ( Hooks y MERN )",
         "startDate": "2022-12-01",
         "finishDate": "2023-01-01",
@@ -264,7 +283,6 @@
       "preferredRoles": [
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
