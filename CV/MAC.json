@@ -180,6 +180,26 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "React: De cero a experto ( Hooks y MERN )",
+        "startDate": "2022-12-01",
+        "finishDate": "2023-01-01",
+        "institution": {
+          "name": "Fernando Herrera - Udemy",
+          "description": "Es un curso que tiene por objetivo llevar de un conocimiento cero de React hasta un nivel competitivo en el ambiente laboral de hoy en día.",
+          "URL": "https://www.udemy.com/course/react-cero-experto/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
