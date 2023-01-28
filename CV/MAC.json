@@ -229,31 +229,6 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
-        "name": "React: De cero a experto ( Hooks y MERN )",
-        "startDate": "2022-12-01",
-        "institution": {
-          "name": "Fernando Herrera - Udemy",
-          "description": "Es un curso que tiene por objetivo llevar de un conocimiento cero de React hasta un nivel competitivo en el ambiente laboral de hoy en día.",
-          "URL": "https://www.udemy.com/course/react-cero-experto/",
-          "image": {
-            "alt": "11767934_4361_2.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/feac19c7-59c5-46c6-b5dd-8c7772142124_11767934_4361_2.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "MERN Stack",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": false,
         "name": "JavaScript Moderno: Guía para dominar el lenguaje",
         "startDate": "2022-12-01",
         "institution": {
@@ -276,6 +251,31 @@
           },
           {
             "name": "MERN Stack",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "React: De cero a experto ( Hooks y MERN )",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "Fernando Herrera - Udemy",
+          "description": "Es un curso que tiene por objetivo llevar de un conocimiento cero de React hasta un nivel competitivo en el ambiente laboral de hoy en día.",
+          "URL": "https://www.udemy.com/course/react-cero-experto/",
+          "image": {
+            "alt": "fhlogo.5e13a52e.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/2fda80ad-c797-4572-85cd-c9ba540f8657_fhlogo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MERN Stack",
+            "type": "technology"
+          },
+          {
+            "name": "React",
             "type": "technology"
           }
         ]
