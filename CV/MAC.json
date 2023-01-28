@@ -315,8 +315,8 @@
           "description": "Curso de BigSeo donde te enseñan todo acerca del Seo",
           "URL": "https://bigseo.com/",
           "image": {
-            "alt": "photo.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/dd9e0bdd-58dc-4a6f-a961-9590e404e18b_photo.jpg"
+            "alt": "bigseo-logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/9860e6ab-ab1c-4dd8-a0e7-7cdc8f98d490_bigseo-logo.svg"
           }
         },
         "linkedCompetences": [
