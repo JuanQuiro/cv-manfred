@@ -103,6 +103,31 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Pagina de María Fernanda La Riva",
+          "description": "Es la marca de María Fernanda La Riva, autora #1 Best Seller en tres continentes, Conferencista Internacional, Master Coach Intuitiva, Creadora y Facilitadora del Programa \"Creando Tu Realidad\"",
+          "URL": "https://mariaflariva1.wixsite.com/espanol/sobre",
+          "image": {
+            "alt": "Captura de pantalla (2).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/8bc446f8-ebf3-4611-bdf3-f721042e9b9c_captura-de-pantalla-.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-04-01",
+            "finishDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "MailChimp",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
