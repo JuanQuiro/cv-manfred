@@ -74,6 +74,28 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Pagina personal - Dominio Dragon",
+          "description": "Es mi página personal creada en astro(React + Tailwind)",
+          "URL": "https://dominio-dragon.vercel.app/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-01-01",
+            "competences": [
+              {
+                "name": "MERN Stack",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
