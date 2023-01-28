@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "Venezuela",
         "region": "Carabobo",
-        "municipality": "Valencia"
+        "municipality": "Valencia",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -109,10 +110,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -287,6 +290,7 @@
         "startDate": "2022-11-01",
         "institution": {
           "name": "Open Bootcamp",
+          "description": "",
           "URL": "https://open-bootcamp.com/",
           "image": {
             "alt": "diplomas_a8c3377c-5c69-4f9a-abe2-5aee0419f7b3-1.png",
@@ -307,6 +311,7 @@
         "startDate": "2020-12-01",
         "institution": {
           "name": "Olimpiada Venezolana en Informática ",
+          "description": "",
           "URL": "https://ovinformatica.wixsite.com/ovinformatica",
           "image": {
             "alt": "Juan Quiroz participación-1.png",
@@ -327,6 +332,7 @@
         "startDate": "2020-12-01",
         "institution": {
           "name": "Olimpiada Venezolana en Informática ",
+          "description": "",
           "URL": "https://ovinformatica.wixsite.com/ovinformatica",
           "image": {
             "alt": "Juan Quiroz ronda final_2-1.png",
@@ -425,6 +431,7 @@
       "preferredRoles": [
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
