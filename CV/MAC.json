@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Venezuela",
         "region": "Carabobo",
-        "municipality": "Valencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valencia"
       }
     },
     "relevantLinks": [
@@ -102,12 +101,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -188,24 +185,6 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "React: De cero a experto ( Hooks y MERN )",
-        "startDate": "2022-12-01",
-        "finishDate": "2023-01-01",
-        "institution": {
-          "name": "Fernando Herrera - Udemy",
-          "description": "Es un curso que tiene por objetivo llevar de un conocimiento cero de React hasta un nivel competitivo en el ambiente laboral de hoy en día.",
-          "URL": "https://www.udemy.com/course/react-cero-experto/"
-        },
-        "linkedCompetences": [
-          {
-            "name": "React",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
         "name": "JavaScript Moderno: Guía para dominar el lenguaje",
         "startDate": "2022-12-01",
         "finishDate": "2023-01-01",
@@ -217,6 +196,28 @@
         "linkedCompetences": [
           {
             "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "React: De cero a experto ( Hooks y MERN )",
+        "startDate": "2022-12-01",
+        "finishDate": "2023-01-01",
+        "institution": {
+          "name": "Fernando Herrera - Udemy",
+          "description": "Es un curso que tiene por objetivo llevar de un conocimiento cero de React hasta un nivel competitivo en el ambiente laboral de hoy en día.",
+          "URL": "https://www.udemy.com/course/react-cero-experto/",
+          "image": {
+            "alt": "11767934_4361_2.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/feac19c7-59c5-46c6-b5dd-8c7772142124_11767934_4361_2.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "React",
             "type": "technology"
           }
         ]
@@ -236,7 +237,6 @@
       "preferredRoles": [
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
