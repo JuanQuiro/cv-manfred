@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Venezuela",
         "region": "Carabobo",
-        "municipality": "Valencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valencia"
       }
     },
     "relevantLinks": [
@@ -110,12 +109,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -310,6 +307,32 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Seo Avanzado",
+        "startDate": "2022-02-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Big Seo",
+          "description": "Curso de BigSeo donde te enseñan todo acerca del Seo",
+          "URL": "https://bigseo.com/",
+          "image": {
+            "alt": "photo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/dd9e0bdd-58dc-4a6f-a961-9590e404e18b_photo.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Google Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "Google Data Studio",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Copywriting en redes sociales: Redacción que convierte",
         "startDate": "2022-01-01",
         "finishDate": "2022-03-01",
@@ -344,7 +367,6 @@
       "preferredRoles": [
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
