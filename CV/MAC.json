@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Venezuela",
         "region": "Carabobo",
-        "municipality": "Valencia",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Valencia"
       }
     },
     "relevantLinks": [
@@ -110,12 +109,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -284,6 +281,27 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Olimpiada Venezolana en Informática ",
+        "startDate": "2020-12-01",
+        "institution": {
+          "name": "Olimpiada Venezolana en Informática ",
+          "description": "Esta es una olimpiada de programación que participe cuando estaba en mi instituto",
+          "URL": "https://ovinformatica.wixsite.com/ovinformatica",
+          "image": {
+            "alt": "Juan Quiroz participación-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/89517832-1e6b-492a-a591-21717dab9623_juan-quiroz-particip.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Tailwind CSS: Guía Completa de Instalación y Primeros Pasos",
@@ -368,7 +386,6 @@
       "preferredRoles": [
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
