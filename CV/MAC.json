@@ -253,10 +253,9 @@
       },
       {
         "studyType": "unaccredited",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "JavaScript Moderno: Guía para dominar el lenguaje",
         "startDate": "2022-12-01",
-        "finishDate": "2023-01-01",
         "institution": {
           "name": "Fernando Herrera - Udemy",
           "description": "Bienvenido al curso de JavaScript moderno. El objetivo principal del curso es enseñarte JavaScript actual, empezando de cero conocimiento en JavaScript hasta llevarte a un nivel avanzado y competitivo en el mercado laboral actual.",
