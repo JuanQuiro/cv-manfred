@@ -225,7 +225,15 @@
         },
         "linkedCompetences": [
           {
+            "name": "Electron",
+            "type": "technology"
+          },
+          {
             "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MERN Stack",
             "type": "technology"
           }
         ]
