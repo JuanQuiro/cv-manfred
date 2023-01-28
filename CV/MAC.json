@@ -283,6 +283,20 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Conceptos de la programación",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "Open Bootcamp",
+          "URL": "https://campus.open-bootcamp.com/",
+          "image": {
+            "alt": "diplomas_a8c3377c-5c69-4f9a-abe2-5aee0419f7b3-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/672eaf11-13ec-4b20-888f-68333f836737_diplomas_a8c3377c-5c.png"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Olimpiada Venezolana en Informática ",
         "startDate": "2020-12-01",
         "institution": {
