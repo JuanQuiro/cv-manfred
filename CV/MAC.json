@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "Venezuela",
         "region": "Carabobo",
-        "municipality": "Valencia"
+        "municipality": "Valencia",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -37,7 +38,7 @@
     "interestingFacts": [
       {
         "topic": "Me encanta todo tipo de musica",
-        "fact": "Mis artistas favoritos son:\nClásica: Joe Hisaishi, Claude Debussy, Erik Satie\nReggaeton: Daby Yanke, Don Omar, Plan B\nFlamenco: Paco de Lucía\n...Entre otros"
+        "fact": "# Mis artistas favoritos son:\n 1. Clásica: Joe Hisaishi, Claude Debussy, Erik Satie\n 2. Reggaeton: Daby Yanke, Don Omar, Plan B\n 3. Flamenco: Paco de Lucía\n...Entre otros"
       }
     ]
   },
@@ -101,10 +102,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -241,6 +244,7 @@
       "preferredRoles": [
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
