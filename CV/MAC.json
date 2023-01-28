@@ -302,6 +302,27 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Olimpiada Venezolana en Informática ",
+        "startDate": "2020-12-01",
+        "institution": {
+          "name": "Olimpiada Venezolana en Informática ",
+          "description": "Esta es una olimpiada de programación que participe cuando estaba en mi instituto",
+          "URL": "https://ovinformatica.wixsite.com/ovinformatica",
+          "image": {
+            "alt": "Juan Quiroz ronda final_2-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/05def18c-e019-482d-b73d-ff50a0d0541d_juan-quiroz-ronda-fi.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Tailwind CSS: Guía Completa de Instalación y Primeros Pasos",
