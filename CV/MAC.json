@@ -114,7 +114,7 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/8bc446f8-ebf3-4611-bdf3-f721042e9b9c_captura-de-pantalla-.png"
           }
         },
-        "type": "openSource",
+        "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
