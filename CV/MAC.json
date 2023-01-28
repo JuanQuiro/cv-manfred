@@ -77,6 +77,46 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "JayTeam",
+          "image": {
+            "alt": "WhatsApp Image 2023-01-28 at 2.56.05 PM.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/6f92e1c4-5dbf-4105-b126-fe7a9bb6ecfe_whatsapp-image-2023-.jpeg"
+          },
+          "URL": "https://www.instagram.com/jayteammkt/"
+        },
+        "roles": [
+          {
+            "name": "Creador de contenido, especilista SEO",
+            "startDate": "2019-01-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "JayTeam es una agencia de marketing digital"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Facebook Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Instagram Ads",
+                "type": "technology"
+              },
+              {
+                "name": "MailChimp",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
