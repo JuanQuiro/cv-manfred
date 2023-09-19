@@ -1,39 +1,26 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Juan",
-      "surnames": "Quiroz",
-      "title": "Desarrollador Fullstack",
-      "description": "Soy un programador FullStack enfocado en Front-end, apasionado por conectar lo mejor de la tecnología con el mundo real.   \n\nEn el comienzo de mi carrera empecé como freelancer en la generación de contenido web, SEO y community manager. \n\nCon el paso del tiempo comencé a crear webs complejas y adiestrarme en el desarrollo web\n\n\nEsto ha dado lugar a que conozca desde marketing hasta stacks como el MERN",
+      "surnames": "Alberto Quiroz Sanchez",
+      "title": "Front-End Developer | React | Javascript | Typescript | 1 año de experiencia como programador",
+      "description": "Soy un programador FullStack de React 🚀, apasionado por conectar la tecnología con el mundo real 🌎👨‍💻.\n\nEn el comienzo de mi carrera empecé como freelancer en la generación de contenido web 📝, SEO 🔍 y community manager 👥.\n\nCon el paso del tiempo comencé a crear webs complejas 💻 y adiestrarme en el desarrollo web 🤓.\nEsto ha dado lugar a que conozca desde marketing 📈 hasta stacks como el MERN o el T3 🤯.\n\nEsto se traduce como =\n➜ 3️⃣ años como creador de Contenido 📅\n➜ 1️⃣ Año como desarrollador de React ⚛️",
       "avatar": {
-        "alt": "Diseño sin título (4).png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/262299aa-ebfa-4c2b-a79d-f31e0451a5c3_diseno-sin-titulo-(4.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/262299aa-ebfa-4c2b-a79d-f31e0451a5c3_diseno-sin-titulo-(4.png",
+        "alt": "Diseño sin título (4).png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJj5JhzotngI4RckLDqO7peJ8)",
         "country": "Venezuela",
         "region": "Carabobo",
         "municipality": "Valencia"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://dominio-dragon.vercel.app/"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/JuanQuiro"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jukiro/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Me encanta todo tipo de musica",
@@ -43,36 +30,29 @@
         "topic": "Me gusta el ajedrez",
         "fact": "Me gusta el ajedrez competitivo, una vez llegue a los 1800 elo FIDE"
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://dominio-dragon.vercel.app/",
+        "description": "Pagina Personal"
+      }
     ]
   },
   "experience": {
     "jobs": [
       {
         "organization": {
-          "name": "Freelancer.com ",
-          "image": {
-            "alt": "descarga.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/27/b6c41ec9-3ce4-4d80-8873-ae08019f87c0_descarga.png"
-          },
-          "URL": "https://www.freelancer.es/"
+          "name": "No Country"
         },
         "roles": [
           {
-            "name": "Freelance",
-            "startDate": "2018-06-01",
+            "name": "Desarrollador Front End",
+            "startDate": "2023-05-01",
+            "finishDate": "2023-08-31",
             "challenges": [
               {
-                "description": "Freelancer.com es una página en la que los freelancer de todo el mundo encuentran trabajo"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Hootsuite",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
+                "description": "Skills: Lado del servidor · Desarrollo Full Stack · Desarrollo web back end · Desarrollo front end · Node.js"
               }
             ]
           }
@@ -80,43 +60,66 @@
       },
       {
         "organization": {
-          "name": "JayTeam",
-          "image": {
-            "alt": "WhatsApp Image 2023-01-28 at 2.56.05 PM.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/6f92e1c4-5dbf-4105-b126-fe7a9bb6ecfe_whatsapp-image-2023-.jpeg"
-          },
-          "URL": "https://www.instagram.com/jayteammkt/"
+          "name": "indie"
+        },
+        "roles": [
+          {
+            "name": "Indie developer",
+            "startDate": "2023-03-01",
+            "challenges": [
+              {
+                "description": "Soy fiel creyente que como desarrollador uno debe tener un portafolio impresionante para aspirar a empresas ambiciosas, por tanto, he estado solo y en compañía para lograr este fin"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Career Break"
+        },
+        "roles": [
+          {
+            "name": "Career transition",
+            "startDate": "2023-01-01",
+            "finishDate": "2023-03-31",
+            "challenges": [
+              {
+                "description": "Decidí tomarme un 'Descanso Profesional' para enfocarme en mejorar mis habilidades en el mundo digital. Mi objetivo era incursionar en el desarrollo de software, así que decidí convertirme en un desarrollador fullstack especializado en ReactJS. Estoy emocionado por las oportunidades que esto me brindará y estoy comprometido a seguir aprendiendo y creciendo en este campo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Jay Team"
         },
         "roles": [
           {
             "name": "Creador de contenido, especilista SEO",
             "startDate": "2019-01-01",
-            "finishDate": "2022-01-01",
+            "finishDate": "2022-01-31",
             "challenges": [
               {
-                "description": "JayTeam es una agencia de marketing digital. Los proyectos que más me impactaron dentro de JayTeam fueron:\n\n 1. Clickfunnels\n 2. Gestión de redes sociales(Social Media Strategist)\n 3. Blogger"
+                "description": "JayTeam es una agencia de marketing digital en Venezuela que se enfoca en potenciar la presencia en línea de los negocios.\n\nSu equipo de expertos en SEO, publicidad en línea, redes sociales y diseño web trabaja diariamente para brindar soluciones integrales y efectivas que satisfagan las necesidades de sus clientes. En JayTeam, se enfocan en trabajar en colaboración con sus clientes para entender sus objetivos y crear estrategias personalizadas que los ayuden a alcanzarlos."
               }
-            ],
-            "competences": [
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelancer.com"
+        },
+        "roles": [
+          {
+            "name": "Freelance",
+            "startDate": "2018-06-01",
+            "finishDate": "2023-01-31",
+            "challenges": [
               {
-                "name": "Facebook Ads",
-                "type": "technology"
-              },
-              {
-                "name": "Hootsuite",
-                "type": "technology"
-              },
-              {
-                "name": "Instagram Ads",
-                "type": "technology"
-              },
-              {
-                "name": "MailChimp",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
+                "description": "Skills: Aprendizaje · Diseño web adaptable · Planificación del sprint · Marketing en motores de búsqueda (SEM) · Marketing digital · Redacción · WordPress · Optimización para motores de búsqueda (SEO)"
               }
             ]
           }
@@ -130,8 +133,8 @@
           "description": "Es mi página personal creada en astro(React + Tailwind)",
           "URL": "https://dominio-dragon.vercel.app/",
           "image": {
-            "alt": "Captura de pantalla (3).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/9e8b0dc3-a553-4598-a7af-890bb2a786ad_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/9e8b0dc3-a553-4598-a7af-890bb2a786ad_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla (3).png"
           }
         },
         "type": "sideProject",
@@ -154,8 +157,8 @@
           "description": "Es la marca de María Fernanda La Riva, autora #1 Best Seller en tres continentes, Conferencista Internacional, Master Coach Intuitiva, Creadora y Facilitadora del Programa \"Creando Tu Realidad\"",
           "URL": "https://mariaflariva1.wixsite.com/espanol/sobre",
           "image": {
-            "alt": "Captura de pantalla (2).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/8bc446f8-ebf3-4611-bdf3-f721042e9b9c_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/8bc446f8-ebf3-4611-bdf3-f721042e9b9c_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla (2).png"
           }
         },
         "type": "openSource",
@@ -163,13 +166,13 @@
           {
             "name": "Developer",
             "startDate": "2021-04-01",
-            "finishDate": "2022-09-01",
             "competences": [
               {
                 "name": "MailChimp",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2022-09-01"
           }
         ]
       },
@@ -178,8 +181,8 @@
           "name": "Vision Holistica",
           "description": "Esta es una página donde se promociona el curso básico “Principios del tarot” además en esta página se publican artículos relacionados con la visión holística",
           "image": {
-            "alt": "WhatsApp Image 2023-01-28 at 3.43.41 PM.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/72130f83-163e-42d0-97b0-9c41b66d5eeb_whatsapp-image-2023-.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/72130f83-163e-42d0-97b0-9c41b66d5eeb_whatsapp-image-2023-.jpeg",
+            "alt": "WhatsApp Image 2023-01-28 at 3.43.41 PM.jpeg"
           }
         },
         "type": "openSource",
@@ -187,13 +190,13 @@
           {
             "name": "Developer",
             "startDate": "2020-07-01",
-            "finishDate": "2020-11-01",
             "competences": [
               {
                 "name": "WordPress",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2020-11-01"
           }
         ]
       },
@@ -203,8 +206,8 @@
           "description": "Página personal de Rosa Martínez, escritora e Ilustradora española",
           "URL": "https://rosamartinez.es/",
           "image": {
-            "alt": "Captura de pantalla (4).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/9cf7c1e5-de88-44a3-8a34-fdd69737633d_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/9cf7c1e5-de88-44a3-8a34-fdd69737633d_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla (4).png"
           }
         },
         "type": "openSource",
@@ -212,13 +215,13 @@
           {
             "name": "Developer",
             "startDate": "2020-03-01",
-            "finishDate": "2020-07-01",
             "competences": [
               {
                 "name": "WordPress",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2020-07-01"
           }
         ]
       }
@@ -227,70 +230,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vim",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Facebook Ads",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NextJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NPM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WordPress",
+          "name": "CMS",
           "type": "technology"
         }
       },
@@ -302,25 +253,7 @@
       },
       {
         "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Analytics",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MailChimp",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
+          "name": "Facebook Ads",
           "type": "technology"
         }
       },
@@ -338,12 +271,126 @@
       },
       {
         "skill": {
-          "name": "CMS",
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MailChimp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vim",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
           "type": "technology"
         }
       }
     ],
     "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Conceptos de la programación",
+        "startDate": "2022-11-01",
+        "institution": {
+          "name": "Open Bootcamp",
+          "URL": "https://open-bootcamp.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/1b866e9c-9d79-4d44-8627-d4916277480b_captura.png",
+            "alt": "Captura.PNG"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jest",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Copywriting en redes sociales: Redacción que convierte",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "crehana",
+          "description": "Este curso te enseña a crear conexiones poderosas entre marcas y personas a través de tus palabras: Domina el Copywriting en redes sociales.\n\n",
+          "URL": "https://www.crehana.com/cursos-online-marketing-digital/copywriting-en-redes-sociales-redaccion-que-convierte/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/fee60b14-fb3c-46c7-adc9-87b5dddeddc2_logo-crehana.png",
+            "alt": "logo-crehana.6a48047513e0.png"
+          }
+        },
+        "finishDate": "2022-03-01",
+        "linkedCompetences": [
+          {
+            "name": "WordPress",
+            "type": "technology"
+          }
+        ]
+      },
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
@@ -354,8 +401,8 @@
           "description": "Bienvenido al curso de JavaScript moderno. El objetivo principal del curso es enseñarte JavaScript actual, empezando de cero conocimiento en JavaScript hasta llevarte a un nivel avanzado y competitivo en el mercado laboral actual.",
           "URL": "https://www.udemy.com/course/javascript-fernando-herrera/",
           "image": {
-            "alt": "fhlogo.5e13a52e.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/d3be1d4b-d99c-4bab-9de4-6122d14e4ee8_fhlogo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/d3be1d4b-d99c-4bab-9de4-6122d14e4ee8_fhlogo.png",
+            "alt": "fhlogo.5e13a52e.png"
           }
         },
         "linkedCompetences": [
@@ -374,6 +421,46 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Olimpiada Nacional Venezolana en Informática ",
+        "startDate": "2020-12-01",
+        "institution": {
+          "name": "Olimpiada Venezolana en Informática ",
+          "URL": "https://ovinformatica.wixsite.com/ovinformatica",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/05def18c-e019-482d-b73d-ff50a0d0541d_juan-quiroz-ronda-fi.png",
+            "alt": "Juan Quiroz ronda final_2-1.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Olimpiada Venezolana en Informática ",
+        "startDate": "2020-12-01",
+        "institution": {
+          "name": "Olimpiada Venezolana en Informática ",
+          "URL": "https://ovinformatica.wixsite.com/ovinformatica",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/89517832-1e6b-492a-a591-21717dab9623_juan-quiroz-particip.png",
+            "alt": "Juan Quiroz participación-1.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": false,
         "name": "React: De cero a experto ( Hooks y MERN )",
@@ -383,8 +470,8 @@
           "description": "Es un curso que tiene por objetivo llevar de un conocimiento cero de React hasta un nivel competitivo en el ambiente laboral de hoy en día.",
           "URL": "https://www.udemy.com/course/react-cero-experto/",
           "image": {
-            "alt": "fhlogo.5e13a52e.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/2fda80ad-c797-4572-85cd-c9ba540f8657_fhlogo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/2fda80ad-c797-4572-85cd-c9ba540f8657_fhlogo.png",
+            "alt": "fhlogo.5e13a52e.png"
           }
         },
         "linkedCompetences": [
@@ -399,102 +486,20 @@
         ]
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Conceptos de la programación",
-        "startDate": "2022-11-01",
-        "institution": {
-          "name": "Open Bootcamp",
-          "URL": "https://open-bootcamp.com/",
-          "image": {
-            "alt": "Captura.PNG",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/1b866e9c-9d79-4d44-8627-d4916277480b_captura.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Jest",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Olimpiada Venezolana en Informática ",
-        "startDate": "2020-12-01",
-        "institution": {
-          "name": "Olimpiada Venezolana en Informática ",
-          "URL": "https://ovinformatica.wixsite.com/ovinformatica",
-          "image": {
-            "alt": "Juan Quiroz participación-1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/89517832-1e6b-492a-a591-21717dab9623_juan-quiroz-particip.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "C++",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Olimpiada Nacional Venezolana en Informática ",
-        "startDate": "2020-12-01",
-        "institution": {
-          "name": "Olimpiada Venezolana en Informática ",
-          "URL": "https://ovinformatica.wixsite.com/ovinformatica",
-          "image": {
-            "alt": "Juan Quiroz ronda final_2-1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/05def18c-e019-482d-b73d-ff50a0d0541d_juan-quiroz-ronda-fi.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "C++",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Tailwind CSS: Guía Completa de Instalación y Primeros Pasos",
-        "startDate": "2022-12-01",
-        "finishDate": "2023-01-01",
-        "institution": {
-          "name": "David Morales - Udemy",
-          "description": "En el curso se aprende a instalar TailwindCSS paso a paso, y cómo empezar a usarlo.\n",
-          "URL": "https://www.udemy.com/course/tailwind-css-instalacion/",
-          "image": {
-            "alt": "default-meta-image-v2.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/f8b6d959-a8ab-4683-ab33-4ad7c43bbd63_default-meta-image-v.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Tailwind",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Seo Avanzado",
         "startDate": "2022-02-01",
-        "finishDate": "2022-06-01",
         "institution": {
           "name": "Big Seo",
           "description": "Curso de BigSeo donde te enseñan todo acerca del Seo",
           "URL": "https://bigseo.com/",
           "image": {
-            "alt": "1-e1642001200380.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/bdb61f3e-c17b-41d1-9fc0-b9c000c7fabb_1-e1642001200380.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/bdb61f3e-c17b-41d1-9fc0-b9c000c7fabb_1-e1642001200380.jpg",
+            "alt": "1-e1642001200380.jpg"
           }
         },
+        "finishDate": "2022-06-01",
         "linkedCompetences": [
           {
             "name": "Google Analytics",
@@ -509,24 +514,44 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Copywriting en redes sociales: Redacción que convierte",
-        "startDate": "2022-01-01",
-        "finishDate": "2022-03-01",
+        "name": "Tailwind CSS: Guía Completa de Instalación y Primeros Pasos",
+        "startDate": "2022-12-01",
         "institution": {
-          "name": "crehana",
-          "description": "Este curso te enseña a crear conexiones poderosas entre marcas y personas a través de tus palabras: Domina el Copywriting en redes sociales.\n\n",
-          "URL": "https://www.crehana.com/cursos-online-marketing-digital/copywriting-en-redes-sociales-redaccion-que-convierte/",
+          "name": "David Morales - Udemy",
+          "description": "En el curso se aprende a instalar TailwindCSS paso a paso, y cómo empezar a usarlo.\n",
+          "URL": "https://www.udemy.com/course/tailwind-css-instalacion/",
           "image": {
-            "alt": "logo-crehana.6a48047513e0.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/fee60b14-fb3c-46c7-adc9-87b5dddeddc2_logo-crehana.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/f8b6d959-a8ab-4683-ab33-4ad7c43bbd63_default-meta-image-v.png",
+            "alt": "default-meta-image-v2.png"
           }
         },
+        "finishDate": "2023-01-01",
         "linkedCompetences": [
           {
-            "name": "WordPress",
+            "name": "Tailwind",
             "type": "technology"
           }
         ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Resistencia a la frustración",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -534,8 +559,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/jukiro/"
+          "URL": "https://www.linkedin.com/in/jukiro/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/JuanQuiro",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "juanquirozsana@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "4244023744",
+          "countryCode": "+58"
         }
       ]
     },
@@ -543,6 +581,25 @@
       "preferredRoles": [
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Mi trabajo ideal me permitiría integrar dentro de mi día a día distintas acciones: trastear con soluciones nuevas, hacer pruebas de concepto, etc. y ponerlas en marcha. Deseo un trabajo que me exija nuevos retos en interés de generar trabajo creativo en provecho de generar grandes negocios",
+    "goodPractices": "Soy fan del «Código Limpio» de Robert C. Martin y de los estándares derivados de su filosofía. Soy amante del minimalismo\n",
+    "projects": [
+      {
+        "name": "Pagina de María Fernanda La Riva"
+      },
+      {
+        "name": "Pagina de Rosa Martinez"
+      },
+      {
+        "name": "Pagina personal - Dominio Dragon"
+      },
+      {
+        "name": "Vision Holistica"
+      }
+    ]
   }
 }
