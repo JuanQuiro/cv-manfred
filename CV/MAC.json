@@ -6,13 +6,13 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Juan",
-      "surnames": "Alberto Quiroz Sanchez",
+      "name": "Juan Alberto",
+      "surnames": "Quiroz Sanchez",
       "title": "Front-End Developer | React | Javascript | Typescript | 1 año de experiencia como programador",
       "description": "Soy un programador FullStack de React 🚀, apasionado por conectar la tecnología con el mundo real 🌎👨‍💻.\n\nEn el comienzo de mi carrera empecé como freelancer en la generación de contenido web 📝, SEO 🔍 y community manager 👥.\n\nCon el paso del tiempo comencé a crear webs complejas 💻 y adiestrarme en el desarrollo web 🤓.\nEsto ha dado lugar a que conozca desde marketing 📈 hasta stacks como el MERN o el T3 🤯.\n\nEsto se traduce como =\n➜ 3️⃣ años como creador de Contenido 📅\n➜ 1️⃣ Año como desarrollador de React ⚛️",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/262299aa-ebfa-4c2b-a79d-f31e0451a5c3_diseno-sin-titulo-(4.png",
-        "alt": "Diseño sin título (4).png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/19/74de0c44-0ab0-404b-9f41-420f96077c89_0.jpg",
+        "alt": "0.jpg"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJj5JhzotngI4RckLDqO7peJ8)",
@@ -34,8 +34,7 @@
     "relevantLinks": [
       {
         "type": "other",
-        "URL": "https://dominio-dragon.vercel.app/",
-        "description": "Pagina Personal"
+        "URL": "https://dominio-dragon.vercel.app/"
       }
     ]
   },
