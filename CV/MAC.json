@@ -42,16 +42,50 @@
     "jobs": [
       {
         "organization": {
-          "name": "No Country"
+          "name": "No Country",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/19/b18f2913-0b05-4da1-9ffd-452ec94b0c85_descarga.png",
+            "alt": "descarga.png"
+          }
         },
         "roles": [
           {
-            "name": "Desarrollador Front End",
+            "name": "Desarrollador FrontEnd",
             "startDate": "2023-05-01",
             "finishDate": "2023-08-31",
             "challenges": [
               {
                 "description": "Skills: Lado del servidor · Desarrollo Full Stack · Desarrollo web back end · Desarrollo front end · Node.js"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "Trello",
+                "type": "technology"
               }
             ]
           }
