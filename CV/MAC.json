@@ -109,23 +109,6 @@
       },
       {
         "organization": {
-          "name": "Career Break"
-        },
-        "roles": [
-          {
-            "name": "Career transition",
-            "startDate": "2023-01-01",
-            "finishDate": "2023-03-31",
-            "challenges": [
-              {
-                "description": "Decidí tomarme un 'Descanso Profesional' para enfocarme en mejorar mis habilidades en el mundo digital. Mi objetivo era incursionar en el desarrollo de software, así que decidí convertirme en un desarrollador fullstack especializado en ReactJS. Estoy emocionado por las oportunidades que esto me brindará y estoy comprometido a seguir aprendiendo y creciendo en este campo."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Jay Team"
         },
         "roles": [
