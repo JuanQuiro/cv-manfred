@@ -25,6 +25,10 @@
       {
         "topic": "Me gusta el ajedrez",
         "fact": "Me gusta el ajedrez competitivo, una vez llegue a los 1800 elo FIDE"
+      },
+      {
+        "topic": "Me gusta la musica",
+        "fact": "Sin música no vivo "
       }
     ],
     "relevantLinks": [
