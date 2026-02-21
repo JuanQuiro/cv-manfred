@@ -640,6 +640,10 @@
           "type": "technology"
         },
         {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         },
