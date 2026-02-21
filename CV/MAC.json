@@ -569,6 +569,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Liderazgo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Pensamiento analítico",
           "type": "practice"
         }
