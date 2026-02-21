@@ -50,6 +50,37 @@
     "jobs": [
       {
         "organization": {
+          "name": "Daka",
+          "URL": "https://tiendasdaka.com/"
+        },
+        "roles": [
+          {
+            "name": "Consultor de desarrollo de aplicaciones",
+            "startDate": "2024-10-01",
+            "finishDate": "2025-03-01",
+            "competences": [
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "SAP",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "No Country",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/19/b18f2913-0b05-4da1-9ffd-452ec94b0c85_descarga.png",
