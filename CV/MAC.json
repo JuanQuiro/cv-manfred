@@ -620,6 +620,10 @@
           "type": "technology"
         },
         {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
           "name": "LangChain",
           "type": "technology"
         },
