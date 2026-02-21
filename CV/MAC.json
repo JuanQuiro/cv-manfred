@@ -640,6 +640,10 @@
           "type": "technology"
         },
         {
+          "name": "Ollama",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
           "type": "technology"
         },
