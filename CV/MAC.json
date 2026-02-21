@@ -680,6 +680,10 @@
           "type": "technology"
         },
         {
+          "name": "Stripe",
+          "type": "technology"
+        },
+        {
           "name": "TypeScript",
           "type": "technology"
         }
