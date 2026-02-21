@@ -279,13 +279,13 @@
       },
       {
         "skill": {
-          "name": "Facebook Ads",
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Git",
+          "name": "Facebook Ads",
           "type": "technology"
         }
       },
@@ -333,25 +333,19 @@
       },
       {
         "skill": {
-          "name": "NextJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "NodeJS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "React",
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Tailwind",
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -364,12 +358,6 @@
       {
         "skill": {
           "name": "Visual Studio Code",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WordPress",
           "type": "technology"
         }
       },
@@ -711,19 +699,19 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Git",
+        "name": "Docker",
         "type": "technology"
       },
       {
-        "name": "NextJS",
+        "name": "NodeJS",
         "type": "technology"
       },
       {
-        "name": "React",
+        "name": "PostgreSQL",
         "type": "technology"
       },
       {
-        "name": "Tailwind",
+        "name": "Python",
         "type": "technology"
       },
       {
