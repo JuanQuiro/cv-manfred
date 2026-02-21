@@ -569,13 +569,7 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Proactividad",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Resistencia a la frustración",
+          "name": "Visión estratégica",
           "type": "practice"
         }
       }
