@@ -616,6 +616,10 @@
           "type": "technology"
         },
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
           "name": "Abap",
           "type": "technology"
         },
