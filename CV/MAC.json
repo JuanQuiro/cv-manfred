@@ -612,6 +612,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "API",
+          "type": "technology"
+        },
+        {
           "name": "Abap",
           "type": "technology"
         },
