@@ -50,6 +50,22 @@
     "jobs": [
       {
         "organization": {
+          "name": "Ember Drago (Consultoriıa de Software)"
+        },
+        "roles": [
+          {
+            "name": "Fundador & Arquitecto Principal ",
+            "startDate": "2025-03-01",
+            "challenges": [
+              {
+                "description": "– Ingenierıa de Producto con IA: Arquitecte un Sistema de Gestion Medica (Cumplimiento HIPAA) con un\nagente ”Business Health Advisor”. Use LangChain y Ollama (LLMs Locales) para procesar datos sensibles\nlocalmente, garantizando privacidad mientras se generan insights estrat´egicos.\n– Liderazgo Estrat´egico: Funde una agencia boutique entregando soluciones especializadas, incluyendo un ERP\nPersonalizado y dashboards anal´ıticos potenciados por IA para proveedores de salud.\n– Arquitectura End-to-End: Diseñe y desplegu´e aplicaciones full-stack escalables usando Next.js, Python y\nFirebase, aprovechando agentes de IA para automatizar el 60% de los flujos de desarrollo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Daka",
           "URL": "https://tiendasdaka.com/"
         },
