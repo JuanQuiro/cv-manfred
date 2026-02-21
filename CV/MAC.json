@@ -634,6 +634,10 @@
         {
           "name": "PHP",
           "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
