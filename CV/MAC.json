@@ -616,6 +616,10 @@
           "type": "technology"
         },
         {
+          "name": "Laravel",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
           "type": "technology"
         }
