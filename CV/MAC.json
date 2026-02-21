@@ -569,12 +569,6 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Aprendizaje Continuo",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
           "name": "Proactividad",
           "type": "practice"
         }
