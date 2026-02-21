@@ -610,6 +610,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Abap",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Full-stack Developer"
       ]
