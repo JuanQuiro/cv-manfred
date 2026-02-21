@@ -616,6 +616,10 @@
           "type": "technology"
         },
         {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
           "name": "Laravel",
           "type": "technology"
         },
