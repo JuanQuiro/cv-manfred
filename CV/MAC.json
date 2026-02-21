@@ -732,7 +732,7 @@
       }
     ],
     "desiredJobDescription": "Mi trabajo ideal me permitiría integrar dentro de mi día a día distintas acciones, revisar con soluciones nuevas, hacer pruebas de concepto, etc. y ponerlas en marcha. Deseo un trabajo que me exija nuevos retos en interés de generar trabajo creativo en provecho de generar grandes negocios",
-    "goodPractices": "Soy fan de las arquitecturas limpias, creo que la verdadera programación nace cuando dejas de escribir código y vez todo como un sistema enfocado en el Negocio/objetivo del producto de Software",
+    "goodPractices": "Soy un firme defensor de la Arquitectura Limpia (Clean Architecture) y los principios SOLID, entendiendo que el código debe ser tan legible como eficiente. Mi enfoque se centra en el Domain-Driven Design (DDD) para asegurar que el software refleje fielmente las necesidades del negocio.\n\nImplemento TDD (Test-Driven Development) y Extreme Programming (XP) no solo como metodologías, sino como herramientas para garantizar la robustez en entornos críticos como el financiero. Aunque la deuda tecnica siempre exista lo evito lo maximo posible",
     "projects": [
       {
         "name": "Pagina de María Fernanda La Riva"
