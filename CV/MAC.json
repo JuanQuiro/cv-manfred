@@ -624,6 +624,10 @@
           "type": "technology"
         },
         {
+          "name": "Cloud Private",
+          "type": "technology"
+        },
+        {
           "name": "Docker",
           "type": "technology"
         },
