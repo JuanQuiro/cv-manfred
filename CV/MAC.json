@@ -620,6 +620,10 @@
           "type": "technology"
         },
         {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
           "type": "technology"
         }
