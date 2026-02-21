@@ -652,6 +652,10 @@
           "type": "technology"
         },
         {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
           "name": "TypeScript",
           "type": "technology"
         }
