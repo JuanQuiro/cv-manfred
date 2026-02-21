@@ -624,6 +624,10 @@
           "type": "technology"
         },
         {
+          "name": "Google Firebase",
+          "type": "technology"
+        },
+        {
           "name": "LangChain",
           "type": "technology"
         },
